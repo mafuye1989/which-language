@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Language Form</title>
+</head>
+<body>
+    <h1>Language Selection</h1>
+    <form>
+        <label for="language">Select a language:</label>
+        <select id="language" name="language">
+            <option value="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMfP09AbvoE33gfePzC1Uu99gaEFioMzpZH2q1cGOlxH20MQ/viewform?embedded=true" width="640" height="2870" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+English</option>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgXjU_CMyxnQuL5tbhUvfzN3SAm-hWAtSVZWOLT2WR5fIvJg/viewform?embedded=true" width="640" height="2900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Amharic</option>
+        </select>
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
